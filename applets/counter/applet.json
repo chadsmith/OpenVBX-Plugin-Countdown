@@ -1,0 +1,8 @@
+{
+	"name" : "Countdown",
+	"sms_name" : "Countdown",
+	"voice_title" : "Countdown",
+	"sms_title" : "Countdown",
+	"description" : "Reply with a countdown to a predetermined date.",
+	"type" : ["sms", "voice"]
+}
