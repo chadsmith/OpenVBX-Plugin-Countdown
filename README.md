@@ -16,4 +16,4 @@ Respond with a countdown to a predefined date.
 4. (Optional) Enter a message to respond with if the countdown date is today
 5. (Optional) Enter a message to respond with if the countdown date was in the past*
 
-* Use %days% to substitute with the number of days until or since the countdown date
+`* Use %days% to substitute with the number of days until or since the countdown date
